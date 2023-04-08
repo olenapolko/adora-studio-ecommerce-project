@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/adora-studio-ecommerce-project/static/css/main.21003887.css",
-    "main.js": "/adora-studio-ecommerce-project/static/js/main.de686163.js",
+    "main.js": "/adora-studio-ecommerce-project/static/js/main.e649f344.js",
     "static/media/hero2.jpg": "/adora-studio-ecommerce-project/static/media/hero2.3b7d9a0390bdbe6806ad.jpg",
     "static/media/hero1.jpg": "/adora-studio-ecommerce-project/static/media/hero1.085624573a99f80e0404.jpg",
     "static/media/adora.png": "/adora-studio-ecommerce-project/static/media/adora.df9a0dba9f1488838dc5.png",
     "static/media/adora.svg": "/adora-studio-ecommerce-project/static/media/adora.88e11b820e83c65912132c439e53eeb2.svg",
     "index.html": "/adora-studio-ecommerce-project/index.html",
     "main.21003887.css.map": "/adora-studio-ecommerce-project/static/css/main.21003887.css.map",
-    "main.de686163.js.map": "/adora-studio-ecommerce-project/static/js/main.de686163.js.map"
+    "main.e649f344.js.map": "/adora-studio-ecommerce-project/static/js/main.e649f344.js.map"
   },
   "entrypoints": [
     "static/css/main.21003887.css",
-    "static/js/main.de686163.js"
+    "static/js/main.e649f344.js"
   ]
 }

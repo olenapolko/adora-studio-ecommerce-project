@@ -9,3 +9,5 @@ This is a small React-based app that offers a seamless and intuitive e-commerce 
 ![main](screenshots/main.png)
 
 ![filters](screenshots/filters.png)
+
+![cart](screenshots/cart.png)
